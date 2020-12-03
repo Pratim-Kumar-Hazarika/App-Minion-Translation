@@ -26,6 +26,9 @@ textarea{
    display: block;
    height: 11vh;
    margin: 1rem 1rem;
+   font-size: 25px;
+   font-family: 'East Sea Dokdo', cursive;
+   font-family: 'Sansita Swashed', cursive;
 }
 #btn-translate{
     padding: 1rem;
@@ -41,6 +44,7 @@ textarea{
     padding: 1rem;
     margin: 1rem;
     height: 10vh;
+    font-size: 25px;
 }
 .minion{
     width: 90%;
@@ -54,3 +58,4 @@ textarea{
     max-width: 600px;
     margin: auto;
 }
+
