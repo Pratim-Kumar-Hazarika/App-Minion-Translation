@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Sansita+Swashed:wght@600&display=swap');
+body{
+    font-family: 'East Sea Dokdo', cursive;
+    font-family: 'Sansita Swashed', cursive;
+}
+:root{
+    --primary-color :#ddc80bcb;
+}
+.navigation{
+    background-color: var(--primary-color);
+    padding: 1rem;
+    color: black;
+    border-bottom-left-radius: 1rem;
+    text-align: center;
+}
+.footer{
+    background-color: var(--primary-color);
+    padding: 3rem 1rem;
+    text-align: center;
+    color: black;
+    border-top-right-radius: 1rem;
+    font-size: large;
+}
+textarea{
+   width: 90%;
+   display: block;
+   height: 11vh;
+   margin: 1rem 1rem;
+}
+#btn-translate{
+    padding: 1rem;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    background-color: var(--primary-color);
+    color: white;
+    border-radius: 1rem;
+}
+.output{
+    border: 1px solid black;
+    width: 85%;
+    padding: 1rem;
+    margin: 1rem;
+    height: 10vh;
+}
+.minion{
+    width: 90%;
+    margin: 1rem 1rem;
+}
+.tran{
+    margin-left: 1rem;
+    font-size: large;
+}
+.container-center{
+    max-width: 600px;
+    margin: auto;
+}
